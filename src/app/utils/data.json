@@ -1,0 +1,40 @@
+{
+    "blogs": [
+      {
+        "id": 1,
+        "title": "Understanding JSON",
+        "author": "John Doe",
+        "date": "2024-12-30",
+        "content": "JSON is a lightweight data format used for data exchange...",
+        "tags": ["JSON", "Programming", "Data Formats"],
+        "comments": [
+          {
+            "user": "JaneSmith",
+            "comment": "Great explanation, very helpful!",
+            "date": "2024-12-30"
+          },
+          {
+            "user": "DevGuru",
+            "comment": "Could you provide an example with nested objects?",
+            "date": "2024-12-30"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "10 Tips for Learning Python",
+        "author": "Jane Doe",
+        "date": "2024-12-28",
+        "content": "Learning Python can be fun and productive. Here are 10 tips to get started...",
+        "tags": ["Python", "Programming", "Learning"],
+        "comments": [
+          {
+            "user": "CodeMaster",
+            "comment": "Tip #7 was a game-changer for me. Thanks!",
+            "date": "2024-12-29"
+          }
+        ]
+      }
+    ]
+  }
+  
